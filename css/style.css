@@ -187,6 +187,9 @@ p {
     .btn p {
         font-size: 20px;
     }
+    .info-card:last-child {
+        margin-right: 30px;
+    }
 }
 
 
